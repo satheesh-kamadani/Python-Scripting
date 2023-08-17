@@ -2,4 +2,4 @@
 
 This repository contains basic to advanced python scripts.
 
-1. Hello_World.py
+1. hello_world.py
