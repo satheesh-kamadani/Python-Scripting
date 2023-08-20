@@ -1,3 +1,5 @@
+# if else statments
+
 number = int(input(""))
 if number < 100:
     print("Number is Small")
