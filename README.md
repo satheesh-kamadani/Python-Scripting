@@ -1,5 +1,4 @@
 # Python-Scripting
 
-This repository contains basic to advanced python scripts.
+This repository contains python scripts.
 
-1. hello_world.py
